@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rozeus",
-    "slug": "wallet",
+    "name": "MyWeather",
+    "slug": "My-Weather",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
